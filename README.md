@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datz0512&label=Profile%20views&color=0e75b6&style=flat" alt="datz0512" /> </p>
 
-- 🔭 I’m currently studying at **PTIT**
+- 🔭 I’m currently studying **IT** at **PTIT**
 
 - 🌱 I’m currently learning **Javascript, ExpressJS, NodeJS, ReactJS**
 
 - 📫 How to reach me **https://www.facebook.com/datz2k3**
 
-- ⚡ Fun fact: **I think im funny :DDD**
+- ⚡ Fun fact: **I think im kinda funny :DDD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
