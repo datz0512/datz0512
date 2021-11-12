@@ -22,5 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datz0512&show_icons=true&locale=en&theme=radical" alt="datz0512" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datz0512&show_icons=true&locale=en&layout=compact&theme=radical" alt="datz0512" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datz0512&show_icons=true&locale=en&theme=radical" alt="datz0512" /></p>
 
