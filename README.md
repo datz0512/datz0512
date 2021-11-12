@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Javascript, ExpressJS, NodeJS, ReactJS**
 
+- 🚀 Aim to be a **Fullstack Developer**
+
 - 📫 How to reach me **https://www.facebook.com/datz2k3**
 
 - ⚡ Fun fact: **I think im kinda funny :DDD**
