@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **datblu2003@gmail.com**
 
-- ⚡ Fun fact **I think im funny :DDD**
+- ⚡ Fun fact: **I think im funny :DDD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
