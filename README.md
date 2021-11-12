@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Javascript, NodeJS, ReactJS**
 
-- 💬 Ask me about **Javascript, NodeJS, ReactJS**
-
 - 📫 How to reach me **datblu2003@gmail.com**
 
 - ⚡ Fun fact **I think im funny :DDD**
