@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datz0512&show_icons=true&locale=en" alt="datz0512" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datz0512&" alt="datz0512" /></p>
+![datz0512's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
