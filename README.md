@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript, NodeJS, ReactJS**
 
-- 📫 How to reach me **datblu2003@gmail.com**
+- 📫 How to reach me **https://www.facebook.com/datz2k3**
 
 - ⚡ Fun fact: **I think im funny :DDD**
 
