@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Do Tien Dat</h1>
 <h3 align="center">A newbie frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=datz0512&label=Profile%20views&color=0e75b6&style=flat" alt="datz0512" /> </p>
-
 - 🔭 I’m currently studying **IT** at **PTIT**
 
 - 🌱 I’m currently learning **Javascript, ExpressJS, NodeJS, ReactJS**
