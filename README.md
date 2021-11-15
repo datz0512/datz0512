@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **IT** at **PTIT**
 
-- 🌱 I’m currently learning **Javascript, ExpressJS, NodeJS, ReactJS**
+- 🌱 I’m currently learning **Javascript, Express/NodeJS, ReactJS**
 
 - 🚀 Aim to be a **Fullstack Developer**
 
