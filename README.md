@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Do Tien Dat</h1>
-<h3 align="center">A newbie frontend developer</h3>
 
 - 🔭 I’m currently studying **IT** at **PTIT**
 
