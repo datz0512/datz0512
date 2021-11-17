@@ -32,9 +32,11 @@
 
 <h2 align="left">📈 Stats</h2>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=datz0512&show_icons=true&locale=en&theme=radical" alt="datz0512"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=datz0512&theme=radical" alt="datz0512"/>
+  <img border="none" width="49%" src="https://github-readme-stats.vercel.app/api?username=datz0512&show_icons=true&locale=en&theme=radical" alt="datz0512"/>
+  <img border="none" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=datz0512&theme=radical" alt="datz0512"/>
 </p>
+
+[![datz0512's github activity graph](https://activity-graph.herokuapp.com/graph?username=datz0512&theme=redical)](https://git.io/datz0512)
 
 
 
