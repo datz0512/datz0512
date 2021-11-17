@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Do Tien Dat</h1>
 
-![giphy](https://user-images.githubusercontent.com/88092627/142228683-3a04db24-c6c4-4ae8-b002-a8c76451cd39.gif)
+![giphy](https://user-images.githubusercontent.com/88092627/142228683-3a04db24-c6c4-4ae8-b002-a8c76451cd39.gif https://user-images.githubusercontent.com/88092627/142229081-93fc6269-d7b6-417e-98db-5ec6e4aa28f8.gif)
+![giphy (1)](https://user-images.githubusercontent.com/88092627/142229081-93fc6269-d7b6-417e-98db-5ec6e4aa28f8.gif)
 
 
 - 🔭 I’m currently studying **IT** at **PTIT**
