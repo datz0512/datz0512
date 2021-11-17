@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Do Tien Dat</h1>
 
+![giphy](https://user-images.githubusercontent.com/88092627/142227988-b93d257e-1a8d-4604-a512-fe3a38c5418a.gif)
+
+
 - 🔭 I’m currently studying **IT** at **PTIT**
 
 - 🌱 I’m currently learning **Javascript, Express/NodeJS, ReactJS**
