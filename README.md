@@ -9,9 +9,7 @@
 - 📫 How to reach me **https://www.facebook.com/datz2k3**
 
 - ⚡ Fun fact: **I think im kinda funny :DDD**
-
-[![datz0512's github activity graph](https://activity-graph.herokuapp.com/graph?username=datz0512&theme=redical)](https://git.io/datz0512)
-
+<p target="_blank"><img align="center" width="100%" src="https://user-images.githubusercontent.com/88092627/142229598-e69ea60a-45b1-4a83-8b2b-80ca2555db98.gif" /></p>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://fb.com/datz2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="datz2k3" height="35" width="40" /></a>
@@ -32,10 +30,16 @@
 <p><img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datz0512&show_icons=true&locale=en&layout=compact&theme=radical" alt="datz0512"/></p>
 
 <h2 align="left">📈 Stats</h2>
+
+[![datz0512's github activity graph](https://activity-graph.herokuapp.com/graph?username=datz0512&theme=redical)](https://git.io/datz0512)
+
 <p align="center">
   <img border="none" width="49%" src="https://github-readme-stats.vercel.app/api?username=datz0512&show_icons=true&locale=en&theme=radical" alt="datz0512"/>
   <img border="none" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=datz0512&theme=radical" alt="datz0512"/>
 </p>
-<p target="_blank"><img align="center" width="100%" src="https://user-images.githubusercontent.com/88092627/142229598-e69ea60a-45b1-4a83-8b2b-80ca2555db98.gif" /></p>
+
+
+
+
 
 
