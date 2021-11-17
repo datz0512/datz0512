@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Do Tien Dat</h1>
 
-<iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>
-
 - 🔭 I’m currently studying **IT** at **PTIT**
 
 - 🌱 I’m currently learning **Javascript, Express/NodeJS, ReactJS**
