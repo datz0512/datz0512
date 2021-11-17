@@ -9,7 +9,7 @@
 - 📫 How to reach me **https://www.facebook.com/datz2k3**
 
 - ⚡ Fun fact: **I think im kinda funny :DDD**
-<p target="_blank"><img align="center" width="95%" src="https://user-images.githubusercontent.com/88092627/142229598-e69ea60a-45b1-4a83-8b2b-80ca2555db98.gif" /></p>
+<p target="_blank"><img align="center" width="93%" src="https://user-images.githubusercontent.com/88092627/142229598-e69ea60a-45b1-4a83-8b2b-80ca2555db98.gif" /></p>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://fb.com/datz2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="datz2k3" height="35" width="40" /> </a>
