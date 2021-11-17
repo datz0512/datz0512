@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently studying **IT** at **PTIT**
 
-- 🌱 I’m currently learning **Javascript, Express/NodeJS, ReactJS**
+- 🌱 I’m currently learning **Javascript, Express/NodeJS, ReactJS, MongoDB**
 
-- 🚀 Going to become a **Fullstack Developer**
+- 🚀 I'm going to be a **Fullstack Developer**
 
 - 📫 How to reach me **https://www.facebook.com/datz2k3**
 
