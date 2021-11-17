@@ -28,7 +28,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p><img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datz0512&show_icons=true&locale=en&layout=compact&theme=radical" alt="datz0512"/></p>
+<p><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datz0512&show_icons=true&locale=en&layout=compact&theme=radical" alt="datz0512"/></p>
 
 <h2 align="left">📈 Stats</h2>
 <p align="center">
