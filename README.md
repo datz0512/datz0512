@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: **I think im kinda funny :DDD**
 
-<p target="_blank"><img align="center" width="95%" src="https://user-images.githubusercontent.com/88092627/142229598-e69ea60a-45b1-4a83-8b2b-80ca2555db98.gif" /></p>
+<p target="_blank"><img align="center" width="100%" src="https://user-images.githubusercontent.com/88092627/142229598-e69ea60a-45b1-4a83-8b2b-80ca2555db98.gif" /></p>
 
 <h2 align="left">📬 Connect with me:</h2>
 <p align="left">
