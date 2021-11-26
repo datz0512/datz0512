@@ -6,7 +6,7 @@
 
 - 🚀 I'm going to be a **Fullstack Dev**
 
-- 📫 How to reach me **https://www.facebook.com/datz2k3**
+- 📫 How to reach me <a target="_blank" href="https://www.facebook.com/datz2k3">**https://www.facebook.com/datz2k3**</a>
 
 - ⚡ Fun fact: **I think im kinda funny :DDD**
 
@@ -31,13 +31,13 @@
   <a target="_blank" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 </p>
 
-<p><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datz0512&show_icons=true&locale=en&layout=compact&theme=radical" alt="datz0512"/></p>
+<p><img target="_blank" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=datz0512&show_icons=true&locale=en&layout=compact&theme=radical" alt="datz0512"/></p>
 
 <h2 align="left">📈 Stats</h2>
 
 <p align="center">
-  <img border="none" width="49%" src="https://github-readme-stats.vercel.app/api?username=datz0512&show_icons=true&locale=en&theme=radical" alt="datz0512"/>
-  <img border="none" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=datz0512&theme=radical" alt="datz0512"/>
+  <img target="_blank" border="none" width="49%" src="https://github-readme-stats.vercel.app/api?username=datz0512&show_icons=true&locale=en&theme=radical" alt="datz0512"/>
+  <img target="_blank" border="none" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=datz0512&theme=radical" alt="datz0512"/>
 </p>
 
 <p target="_blank"><img align="center" width="100%" src="https://user-images.githubusercontent.com/88092627/142229598-e69ea60a-45b1-4a83-8b2b-80ca2555db98.gif" /></p>
