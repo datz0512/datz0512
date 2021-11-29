@@ -6,7 +6,7 @@
 
 - 🚀 I'm going to be a **Fullstack Dev**
 
-- 📫 How to reach me <a target="_blank" href="https://www.facebook.com/datz2k3">**https://www.facebook.com/datz2k3**</a>
+- 📫 How to reach me **datz0512@gmail.com**
 
 - ⚡ Fun fact: **I think im kinda funny :DDD**
 
