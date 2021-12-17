@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: **I think im kinda funny :DDD**
 
-[![datz0512's github activity graph](https://activity-graph.herokuapp.com/graph?username=datz0512&theme=redical)](https://git.io/datz0512)
+<p target="_blank"><img align="center" width="100%" src="https://user-images.githubusercontent.com/88092627/142229598-e69ea60a-45b1-4a83-8b2b-80ca2555db98.gif" /></p>
 
 <h2 align="left">📬 Connect with me:</h2>
 <p align="left">
@@ -38,7 +38,8 @@
   <img target="_blank" border="none" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=datz0512&theme=radical" alt="datz0512"/>
 </p>
 
-<p target="_blank"><img align="center" width="100%" src="https://user-images.githubusercontent.com/88092627/142229598-e69ea60a-45b1-4a83-8b2b-80ca2555db98.gif" /></p>
+[![datz0512's github activity graph](https://activity-graph.herokuapp.com/graph?username=datz0512&theme=redical)](https://git.io/datz0512)
+
 
 
 
