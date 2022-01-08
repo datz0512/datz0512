@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying **IT** at **PTIT**
 
-- 🌱 I’m currently learning **Nodejs, MongoDB, Reactjs**
+- 🌱 I’m currently learning **Nodejs, Mongodb, Reactjs**
 
 - 📫 How to reach me **datz0512@gmail.com**
 
