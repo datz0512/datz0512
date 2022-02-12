@@ -1,6 +1,6 @@
 <h1>Hi, I am Dat! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 
-- 🔭 I’m currently studying **IT** at **PTIT**
+- 🔭 I’m currently studying **Software engineering** at **PTIT**
 
 - 🌱 I’m currently learning **MERN**
 
