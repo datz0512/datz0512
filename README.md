@@ -1,5 +1,5 @@
-<h1>Hi, I am Dat! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font-size=36&font=arial&color=%2336BCF7&lines=Hi%20I'm%20Do%20Tien%20Dat%20-%20A%20frontend%20developer)
+ 
 - 🔭 I’m currently studying **Software engineering** at **PTIT**
 
 - 🌱 I’m currently learning **MERN**
