@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **datz0512@gmail.com**
 
-- ⚡ Fun fact: **I think im kinda funny :DDD**
+- ⚡ Fun fact: **I think im kinda funny :D**
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
