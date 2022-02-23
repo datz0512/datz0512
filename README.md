@@ -1,5 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font-size=36&font=arial&color=%2336BCF7&lines=Hi%20I'm%20Do%20Tien%20Dat%20-%20A%20frontend%20developer)
- 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font-size=36&font=arial&color=%2336BCF7&lines=Hi%20I'm%20Do%20Tien%20Dat%20-%20A%20frontend%20developer;&center=true&width=600&height=60"></a>
+</p>
+
 - 🔭 I’m currently studying **Software engineering** at **PTIT**
 
 - 🌱 I’m currently learning **MERN**
@@ -34,6 +36,8 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p target="_blank"><img align="center" width="100%" src="https://user-images.githubusercontent.com/88092627/142229598-e69ea60a-45b1-4a83-8b2b-80ca2555db98.gif" /></p>
 
