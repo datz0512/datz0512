@@ -43,8 +43,8 @@
 
 <h2 align="left">📬 Connect with me:</h2>
 <p align="left">
-<a target="blank" href="https://fb.com/datz2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="datz2k3" height="35" width="40" /> </a>
-<a target="blank" href="https://instagram.com/dtdatj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dtdatj" height="35" width="40" /> </a>
+<a target="blank" href="https://www.facebook.com/dtdatjj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="datz2k3" height="35" width="40" /> </a>
+<a target="blank" href="https://instagram.com/dtdatj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dtdatj" height="35" width="40" /> </a>
 </p>
 
 <h2 align="left">🔭 Languages and Tools:</h2>
