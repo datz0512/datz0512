@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F71A00&background=FFFFFF00&height=40&lines=Hi+I'm+Do+Tien+Dat;A+fullstack+web+dev">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=F71A00&background=FFFFFF00&lines=Hi+I'm+Do+Tien+Dat;A+newbie+web+developer">
 </p>
 
 - 🔭 I’m currently studying **Software engineering** at **PTIT**
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **ReactJS, NodeJS**
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
