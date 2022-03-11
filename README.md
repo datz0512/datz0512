@@ -35,7 +35,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2 align="left">📬 Connect with me:</h2>
+<h2 align="left">📬 Connect with me</h2>
 <p align="left">
 <a target="blank" href="https://www.facebook.com/dtdatjj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="datz2k3" height="35" width="40" /> </a>
 <a target="blank" href="https://instagram.com/dtdatj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dtdatj" height="35" width="40" /> </a>
