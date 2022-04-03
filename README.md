@@ -40,7 +40,8 @@
 <h2 align="left">📬 Connect with me</h2>
 <p align="left">
   <a target="blank" href="https://www.facebook.com/dtdatjj/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="datz2k3"/> </a>
-  <a target="blank" href="https://instagram.com/dtdatj_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="dtdatj" height="35" width="40" /> </a>
+  <a target="blank" href="https://instagram.com/dtdatj_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="dtdatj"/> </a>
+  <a target="blank" href="datz0512@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="dtdatj"/> </a>
 </p>
 
 
