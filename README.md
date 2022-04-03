@@ -39,8 +39,8 @@
 
 <h2 align="left">📬 Connect with me</h2>
 <p align="left">
-<a target="blank" href="https://www.facebook.com/dtdatjj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="datz2k3" height="35" width="40" /> </a>
-<a target="blank" href="https://instagram.com/dtdatj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dtdatj" height="35" width="40" /> </a>
+  <a target="blank" href="https://www.facebook.com/dtdatjj/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="datz2k3"/> </a>
+  <a target="blank" href="https://instagram.com/dtdatj_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="dtdatj" height="35" width="40" /> </a>
 </p>
 
 
@@ -67,9 +67,10 @@
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-black?logo=git"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github"></a>
 </p>
-
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <p><img target="_blank" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datz0512&layout=compact&theme=radical" alt="datz0512"/></p>
 
 <h2 align="left">📈 Stats</h2>
