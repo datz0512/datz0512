@@ -35,6 +35,8 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+[![datz0512's github activity graph](https://activity-graph.herokuapp.com/graph?username=datz0512&theme=rogue)](https://github.com/datz0512/github-readme-activity-graph)
+
 <h2 align="left">📬 Connect with me</h2>
 <p align="left">
 <a target="blank" href="https://www.facebook.com/dtdatjj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="datz2k3" height="35" width="40" /> </a>
