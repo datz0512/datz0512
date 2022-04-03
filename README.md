@@ -68,10 +68,10 @@
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-black?logo=git"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-black?logo=git"></a>
 </p>
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 <p><img target="_blank" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datz0512&layout=compact&theme=radical" alt="datz0512"/></p>
 
 <h2 align="left">📈 Stats</h2>
