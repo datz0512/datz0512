@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a freshman studying **Software engineering** at **PTIT**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **Web Development** using MERN Stack
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
