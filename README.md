@@ -35,17 +35,8 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
 ## 🐍 Snake eating my contribution graph
 <img alt="C" width="100%" src="https://github.com/datz0512/datz0512/blob/output/github-contribution-grid-snake.svg">
-
-<h2 align="left">📬 Connect with me</h2>
-<p align="left">
-  <a target="blank" href="https://www.facebook.com/dtdatjj/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="datz2k3"/> </a>
-  <a target="blank" href="https://instagram.com/dtdatj_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="dtdatj"/> </a>
-  <a target="blank" href="mailto:datz0512@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="dtdatj"/> </a>
-</p>
-
 
 ## ⚡ Technologies
 
@@ -69,7 +60,7 @@
  
 </p>
 
-### 🛠 IDE and Tools
+### 🛠 IDE and tools
 <p>  
   <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white"></a>
   <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white"></a>
@@ -87,7 +78,14 @@
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 </p>
 
-<p><img target="_blank" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datz0512&layout=compact&theme=radical" alt="datz0512"/></p>
+## 📬 Connect with me
+<p align="left">
+  <a target="blank" href="https://www.facebook.com/dtdatjj/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="datz2k3"/> </a>
+  <a target="blank" href="https://instagram.com/dtdatj_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="dtdatj"/> </a>
+  <a target="blank" href="mailto:datz0512@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="dtdatj"/> </a>
+</p>
+
+<p><img target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datz0512&layout=compact&theme=radical" alt="datz0512"/></p>
 
 <h2 align="left">📈 Stats</h2>
 
