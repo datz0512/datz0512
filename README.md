@@ -35,7 +35,9 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![datz0512's github activity graph](https://activity-graph.herokuapp.com/graph?username=datz0512&theme=react-dark)](https://github.com/datz0512/github-readme-activity-graph)
+
+## 🐍 Snake eating my contribution graph
+<img alt="C" width="100%" src="https://github.com/datz0512/datz0512/blob/output/github-contribution-grid-snake.svg">
 
 <h2 align="left">📬 Connect with me</h2>
 <p align="left">
@@ -93,10 +95,3 @@
   <img target="_blank" border="none" width="49%" src="https://github-readme-stats.vercel.app/api?username=datz0512&show_icons=true&locale=en&theme=radical" alt="datz0512"/>
   <img target="_blank" border="none" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=datz0512&theme=radical" alt="datz0512"/>
 </p>
-
-## 🐍 Snake eating my contribution graph
-<img alt="C" width="100%" src="https://github.com/datz0512/datz0512/blob/output/github-contribution-grid-snake.svg">
-
-
-
-
