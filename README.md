@@ -35,7 +35,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![datz0512's github activity graph](https://activity-graph.herokuapp.com/graph?username=datz0512&theme=rogue)](https://github.com/datz0512/github-readme-activity-graph)
+[![datz0512's github activity graph](https://activity-graph.herokuapp.com/graph?username=datz0512&theme=react-dark)](https://github.com/datz0512/github-readme-activity-graph)
 
 <h2 align="left">📬 Connect with me</h2>
 <p align="left">
