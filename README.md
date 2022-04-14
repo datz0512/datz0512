@@ -6,9 +6,6 @@
 
 - 🌱 I’m currently learning **Web Development** using MERN Stack
 
-## 🐍 Snake eating my contribution graph
-<img alt="C" width="100%" src="https://github.com/datz0512/datz0512/blob/output/github-contribution-grid-snake.svg">
-
 ## ⚡ Technologies
 
 ### 👨‍💻 Programming languages
