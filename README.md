@@ -29,8 +29,6 @@
 ### 🛠 IDE and tools
 <p>  
   <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white"></a>
-  <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white"></a>
-  <a href="#"><img alt="webstorm" src="https://img.shields.io/badge/WebStorm-000000?logo=WebStorm&logoColor=white"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-black?logo=git"></a>
@@ -47,15 +45,7 @@
 ## 📬 Connect with me
 <p align="left">
   <a target="blank" href="https://www.facebook.com/dtdatjj/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="datz2k3"/> </a>
-  <a target="blank" href="https://instagram.com/dtdatj_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="dtdatj"/> </a>
   <a target="blank" href="mailto:datz0512@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="dtdatj"/> </a>
 </p>
 
 <p><img target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datz0512&layout=compact&theme=radical" alt="datz0512"/></p>
-
-<h2 align="left">📈 Stats</h2>
-
-<p align="center">
-  <img target="_blank" border="none" width="49%" src="https://github-readme-stats.vercel.app/api?username=datz0512&show_icons=true&locale=en&theme=radical" alt="datz0512"/>
-  <img target="_blank" border="none" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=datz0512&theme=radical" alt="datz0512"/>
-</p>
