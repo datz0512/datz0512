@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=F71A00&background=FFFFFF00&lines=Hi+I'm+Datz">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=F71A00&background=FFFFFF00&lines=Hi+I'm+Do+Tien+Dat">
 </p>
 
 🔭 I’m currently studying **Software engineering** at **PTIT**
