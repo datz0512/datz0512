@@ -44,7 +44,7 @@
   <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   
 
-## 📬 Connect with me
+## 📬 Reach me on
 <p align="left">
   <a target="blank" href="https://www.facebook.com/dtdatjj/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="datz2k3"/> </a>
   <a target="blank" href="mailto:datz0512@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dtdatj"/> </a>
