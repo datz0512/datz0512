@@ -57,4 +57,5 @@
   <a target="blank" href="mailto:datz0512@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dtdatj"/> </a>
 </p>
 
-<p><img target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datz0512&layout=compact&theme=radical" alt="datz0512"/></p>
+##
+<p><img target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datz0512&layout=donut&theme=codeSTACKr" alt="datz0512"/></p>
